@@ -4,7 +4,7 @@ Created on Wed Jul 18 18:59:08 2018
 
 @author: zyx
 """
-
+#同一工作目录下无需 __init__.py
 from Student import Student
 
 st = Student(20,'zyx')
